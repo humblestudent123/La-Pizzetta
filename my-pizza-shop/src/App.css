@@ -1,3 +1,9 @@
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
 .App {
   text-align: center;
   background-image: url('./my-pizza-shop/images/f9df39e004c15247b2be6711bc3ec6dc.jpg');
@@ -37,6 +43,9 @@
     transform: rotate(360deg);
   }
 }
+
+
+
 
 
 
